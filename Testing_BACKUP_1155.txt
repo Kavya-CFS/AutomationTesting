@@ -1,7 +1,0 @@
-This is a test file
-<<<<<<< HEAD
-Update is done in User1 branch
-=======
-update is done
-Update is done in Main branch
->>>>>>> main
